@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+.DS_Store
+.env
+*.docx
+model.pth
+*.pth
+*.csv
